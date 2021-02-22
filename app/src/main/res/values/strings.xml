@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application12</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="login">login</string>
+    <string name="not_registered">notregistered</string>
+    <string name="register">register</string>
+    <string name="already_registered">Alreadyregistered</string>
+    <string name="confirm_password">confirmpassword</string>
+    <string name="EnterMobileNo">EnterMobileNo</string>
+    <string name="Confirm">Confirm</string>
+    <string name="EnterAddress">EnterAddress</string>
+</resources>
